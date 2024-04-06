@@ -3,6 +3,21 @@
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "freedom"
+    }
+  ],
+  "api": [
+    {
+      "method": "get",
+    },
+    {
+      "method": "post",
+    },
+    {
+      "method": "put"
     }
   ],
   "profile": {
