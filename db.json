@@ -5,6 +5,17 @@
       "title": "hello"
     }
   ],
+  "apis": [
+    {
+      "method":"get"
+    },
+    {
+      "method":"put"
+    },
+    {
+      "method":"post"
+    }
+  ],
   "profile": {
     "name": "gq"
   }
